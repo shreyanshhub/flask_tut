@@ -1,2 +1,2 @@
 # flask_tut
-Notes on flask
+My notes on flask
